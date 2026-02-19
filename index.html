@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>TaskFlow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- BARRA FLUTUANTE -->
+  <header class="topbar">
+    <h1>📋TaskFlow✅</h1>
+    <button id="addTaskBtn">+ Nova Tarefa</button>
+  </header>
+
+  <!-- BOARD -->
+  <main class="board">
+
+    <div class="column">
+      <h2>Pendente</h2>
+      <div class="task-list" id="pendente"></div>
+    </div>
+
+    <div class="column">
+      <h2>Em Progresso</h2>
+      <div class="task-list" id="progresso"></div>
+    </div>
+
+    <div class="column">
+      <h2>Concluído</h2>
+      <div class="task-list" id="concluido"></div>
+    </div>
+
+  </main>
+
+  <!-- MODAL -->
+  <div class="modal" id="taskModal">
+    <div class="modal-content">
+      <h2 id="modalTitle">Nova Tarefa</h2>
+
+      <form id="taskForm">
+        <input type="text" id="taskTitle" placeholder="Título da tarefa" required>
+        <input type="date" id="taskDate">
+
+        <select id="taskStatus">
+          <option value="pendente">Pendente</option>
+          <option value="progresso">Em Progresso</option>
+          <option value="concluido">Concluído</option>
+        </select>
+
+        <div class="modal-buttons">
+          <button type="submit">Salvar</button>
+
+          <button type="button" id="closeModal">Cancelar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+<script src="script.js" defer></script>
+
+</body>
+</html>
