@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1 align="center"> Galeria Web </h1>
+<h1 align="center"> lista de tarefas web </h1>
 
 <p align="center">
 Este é um projeto prático realizado com o objetivo de aplicar e consolidar conhecimentos nas tecnologias HTML, CSS e JavaScript.
@@ -34,11 +34,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é uma Galeria Web com sistema de autenticação e organização por pastas, desenvolvida utilizando apenas tecnologias front-end..git
+TaskFlow é uma aplicação web estilo Kanban, desenvolvida para organizar tarefas de forma simples, visual e intuitiva.
+
+O projeto permite criar, editar, excluir e mover tarefas entre colunas utilizando Drag and Drop, mantendo tudo salvo automaticamente no navegador através do LocalStorage.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](httpshttps://github.com/Chrystian-dev/Galeria-Web)[OU DESSE LINK](https://chrystian-dev.github.io/Galeria-Web/index.html). Não é necessário ter conta no [github.com](https://github.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](httpshttps://github.com/Chrystian-dev/Galeria-Web)[OU DESSE LINK](https://chrystian-dev.github.io/lista-de-tarefas-web/index.html). Não é necessário ter conta no [github.com](https://github.com/) para acessá-lo.
 
 ## :memo: Licença
 
