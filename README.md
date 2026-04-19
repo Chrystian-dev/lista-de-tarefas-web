@@ -40,7 +40,7 @@ O projeto permite criar, editar, excluir e mover tarefas entre colunas utilizand
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](httpshttps://github.com/Chrystian-dev/Galeria-Web). veja como o projeto foi pensado no [figma.com](https://www.figma.com/design/Nj5jOQBQG7UPNmwdqJgn1q/lista-de-tarefas-web?node-id=10-620&p=f&t=3JVUlZfZRoepPDuj-0).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://chrystian-dev.github.io/lista-de-tarefas-web/index.html). veja como o projeto foi pensado no [figma.com](https://www.figma.com/design/Nj5jOQBQG7UPNmwdqJgn1q/lista-de-tarefas-web?node-id=10-620&p=f&t=3JVUlZfZRoepPDuj-0).
 
 
 ## :memo: Licença
